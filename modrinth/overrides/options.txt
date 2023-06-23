@@ -1,0 +1,2 @@
+resourcePacks:["vanilla","fabric","cullleaves:smartleaves","continuity:default","continuity:glass_pane_culling_fix"]
+incompatibleResourcePacks:["cullleaves:smartleaves"]
