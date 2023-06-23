@@ -16,4 +16,4 @@ Optifine has got very outdated tweaks and it breaks with some modern mods. Also 
 
 **File name:**
 
-LightlyOptimized-ModpackVersion-MCVersion.mrpack
+LightlyOptimized-ModpackVersion-MCVersion-Modrinth/CurseForge/MultiMC/MultiMCAutoUpdate.zip
